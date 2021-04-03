@@ -148,3 +148,33 @@
 * Making threats is not enough.
   * Offers are usually more effective.
   * Write an option in the form of a "_yesable proposition_".
+
+
+## Insist on Using Objective Criteria
+
+### Deciding on the basis of will is costly
+#### Negotiators tend to resolve conflicts by positional bargaining of what they are willing and unwilling to accept
+
+* The solution is to negotiate on some basis _independent_ of the will of either side.
+
+### The case for using objective criteria
+#### The approach is to commit yourself to reaching a solution based on principle, not pressure
+
+* Principled negotiation produces wise agreements amicably and efficiently.
+  * A constant battle for dominance threatens a relationship; principled negotiation protects it.
+  * It reduces the number of commitments that each side must make.
+
+### Developing objective criteria
+#### Develop some alternative standards beforehand
+
+* Fair standards - it needs to be independent of each side's will.
+* Fair procedures - used for resolving conflicting interests.
+
+### Negotiating with objective criteria
+#### Focus on objective criteria firmly but flexibly
+
+* Three basic points to remember
+  1. Frame each issue as a joint search for objective criteria
+  2. Reason and be open to reason as to which standards are most appropriate and how they should be applied.
+  3. Never yield to pressure, only to principle.
+
