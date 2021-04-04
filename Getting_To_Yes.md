@@ -178,3 +178,28 @@
   2. Reason and be open to reason as to which standards are most appropriate and how they should be applied.
   3. Never yield to pressure, only to principle.
 
+
+## What if they are more powerful?
+
+### Protecting yourself
+#### Against an agreement you should reject
+
+* The cost of using a bottom line is high.
+* Know your BATNA - Best Alternative to Negotiation Agreement.
+* The insecurity of an unknown BATNA.
+* Formulate a trip wire - it can limit the authority of a mediator.
+
+### Making most out of your assets
+#### The answer lies in BATNA
+
+* The better your BATNA, the greater your power.
+
+  _*"The relative negotiating power of two parties depends primarily upon how attractive to each is the option of not reaching agreement."*_
+
+* Develop your BATNA.
+  1. Invent a list of actions you might take if no agreement is reached
+  2. Convert some more promising ideas into practical alternatives
+  3. Select tentatively the one alternative that seems best
+
+* Consider the other side's BATNA. 
+
