@@ -203,3 +203,26 @@
 
 * Consider the other side's BATNA. 
 
+## What if They Won't Play
+
+### Principled negotiation
+#### Focus on what _you_ may do
+
+* The subject of this book.
+* Concentrate on the merits, rather than on positions.
+* Change the game simply by starting to play a new one.
+
+### Negotiation jujitsu
+#### Focus on what _they_ may do
+
+* Don't attack their position, look behind it.
+* Don't defend your ideas, invite criticism and advice.
+* Ask questions and pause.
+
+### Consider the _one-text_ procedure
+#### Introduce a mediator or mediate your own dispute
+
+* Separate inventing from decision making.
+* Reduce the number of decisions required to reach an agreement.
+* Help the parties know what they will get when they do decide.
+* Simply prepare a draft and ask for criticism.
