@@ -226,3 +226,20 @@
 * Reduce the number of decisions required to reach an agreement.
 * Help the parties know what they will get when they do decide.
 * Simply prepare a draft and ask for criticism.
+
+### Getting them to play
+
+* "_Please correct me if I'm wrong_"
+* "_We appreciate what you've done for us_"
+* "_Our concern is fairness_"
+* "_We would like to settle this on the basis of independent standards, not on who can do what to whom_"
+* "_This is a separate issue_"
+* "_Could I ask you a few questions to see whether my facts are right_"
+* "_What's the principle behind your action?_"
+* "_Let me see if I understand what you're saying_"
+* "_Let me get back to you_"
+* "_Let me show you where I have trouble following some of your reasoning_"
+* "_One fair solution might be..._"
+* "_If we agree... If we disagree..._"
+* "_We'd be happy to see if we can leave when It's most convenient for you_"
+* "_It's been a pleasure dealing with you_"
