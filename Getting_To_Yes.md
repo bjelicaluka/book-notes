@@ -280,16 +280,16 @@ _Engage in the principled negotiation about the procedure of the negotiating pro
 * Refusal to negotiate. - possible ploy, an attempt to use their entry into negotiation as a bargaining chip to obtain some concession on substance. A variant on this ploy is to set preconditions for negotiations.
 * Extreme demands. - with the aim of lowering expectations.
 * Escalating demands. - psychological effect of making you want to agree quickly before more demands get raised.
-* Lock-in tactics. - like threats they depend on communication.
+* Lock-in tactics. - like threats ,they depend on communication.
 * Hardhearted partner. - recognize the tactic.
 * A calculated delay. - waiting for the right time is a high-cost game.
-* "_Take it or leave it._" - it is not negotiation, not a interactive decision-making. Consider ignoring it at first, and later raise up the recognized tactic and let them know what they have to lose.
+* "_Take it or leave it._" - it is not negotiation, not interactive decision-making. Consider ignoring it at first, and later raise up the recognized tactic and let them know what they have to lose.
 
 #### Don't be a victim
 
 * It's often hard to decide what it means to negotiate in "good faith".
 * Dealing with a friend or family approach.
-* It may be useful to ask about the rules of the negotiation up front.
+* It may be useful to ask about the rules of the negotiation upfront.
 
 ## Conclusion
 Three points.
