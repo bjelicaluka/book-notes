@@ -243,3 +243,59 @@
 * "_If we agree... If we disagree..._"
 * "_We'd be happy to see if we can leave when It's most convenient for you_"
 * "_It's been a pleasure dealing with you_"
+
+## What If They Use Dirty Tricks?
+
+_Engage in the principled negotiation about the procedure of the negotiating process._
+
+### How do you negotiate about the rules of the game?
+#### Three steps:
+  1. Recognize the dirty tactic
+  2. Raise the issue explicitly
+  3. Question the tactic's legitimacy and desirability
+
+* Separate people from the problem.
+* Focus on interests, not positions.
+* Invent options for mutual gain.
+* Insist on using objective criteria.
+
+### Some common dirty tactics
+
+#### Deliberate deception
+
+* Phony facts. - unless you have a good reason to trust somebody, don't.
+* Ambiguous authority. - "second bite at the apple"
+* Dubious intentions. - build compliance features into the agreement itself.
+* Less than full disclosure is not the same as deception. - good faith negotiation does not require total disclosure.
+
+#### Psychological warfare
+
+* Stressful situations. - identify the problem and raise it.
+* Personal attack. - recognize the tactic and raise it.
+* The good-guy/bad-guy routine. - you won't be taken in.
+* Threats. - warnings are much more legitimate.
+
+#### Positional pressure tactics
+
+* Refusal to negotiate. - possible ploy, an attempt to use their entry into negotiation as a bargaining chip to obtain some concession on substance. A variant on this ploy is to set preconditions for negotiations.
+* Extreme demands. - with the aim of lowering expectations.
+* Escalating demands. - psychological effect of making you want to agree quickly before more demands get raised.
+* Lock-in tactics. - like threats they depend on communication.
+* Hardhearted partner. - recognize the tactic.
+* A calculated delay. - waiting for the right time is a high-cost game.
+* "_Take it or leave it._" - it is not negotiation, not a interactive decision-making. Consider ignoring it at first, and later raise up the recognized tactic and let them know what they have to lose.
+
+#### Don't be a victim
+
+* It's often hard to decide what it means to negotiate in "good faith".
+* Dealing with a friend or family approach.
+* It may be useful to ask about the rules of the negotiation up front.
+
+## Conclusion
+Three points.
+
+### 1. You knew it all the time.
+### 2. Learn from doing.
+### 3. "_Winning_"
+#### This book is about how to "win" that important game - how to achieve a better process for dealing with your differences.
+
